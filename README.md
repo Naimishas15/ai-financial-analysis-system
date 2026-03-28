@@ -1,5 +1,3 @@
-# 20IT938-PRIEE-B6
-# Batch : 06
 # AI-Based Discourse for Banking Industry
 
 ## Introduction
@@ -10,16 +8,6 @@ The primary objective of this project is to critically examine the profound impa
 
 ## Domain: Artificial Intelligence in Banking
 Artificial Intelligence has become a driving force in reshaping the banking landscape. From enhancing operational efficiency to improving customer experiences, AI technologies are playing a pivotal role. In this project, we delve into the nuances of this domain, exploring both the opportunities and ethical considerations associated with AI integration in banking.
-
-## Team Members
-| Name                | Register Number   | ID                |
-|---------------------|-------------------|-------------------|
-| Venkata Lokesh P  | 111720102097 | vlokesh08              |
-| Akhileswar P     | 111720102096 | PALLAAKHILESWAR              |
-| Manoj N     | 111720102081 | NannuriManoj              |
-| Hemavardhan K     | 111720102062 | HemavardhanK              |
-| Aasrith M     | 111720102067 | Aasrith-Mandava              |
-
 
 ## Contribution Guidelines
 We welcome contributions from the community! If you'd like to contribute to this project, please follow these guidelines:
